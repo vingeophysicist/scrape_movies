@@ -15,3 +15,7 @@ pip install requests beautifulsoup4
 
 __Text Output__
 The movie website scraper generates a txt file named movies_title.txt that contains the scraped movie data. The txt file have the information of the best 100 movies of all time and the year the movie was produced.
+
+__Acknowledgments__
+The requests library: Requests
+The beautifulsoup4 library: Beautiful Soup
